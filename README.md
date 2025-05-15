@@ -3,7 +3,7 @@
 <!--
 **Shyam1719/Shyam1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 💫 About Me:
+# About Me:
 Hi there! I'm **Shyam**, a B.Tech 3rd year Computer Science student at RGUKT. I'm passionate about **AI, Machine Learning, Deep Learning**, and **Full Stack Web Development**. <br><br>- 🔍 I'm currently exploring real-world projects that blend **AI/ML** with **web technologies**.<br>- 🎯 I love solving problems and regularly take part in **competitive programming** challenges.<br>- 🛠️ Skilled in **Python**, **MySQL**, and building end-to-end ML pipelines.<br>- 🧠 Completed the **NPTEL course in Python Programming** with an 84% score.<br>- 🌐 Developed and deployed projects like:<br>  - **Customer Churn Prediction**<br>  - **Student Performance Predictor**<br>  - **Paytracker**<br>  - **Automated MCQ Generation Using Flask and Google Generative AI**<br>  <br>- 🧪 I use **Streamlit** and **Flask** for deploying models and **GitHub** for version control and collaboration.<br>- 🚀 Currently building my portfolio and aiming for leadership roles in tech-driven projects.<br>- 📌 Organizer at college tech fests and **Joint Secretary of the SGC Coding Club**, where I help promote a strong coding culture.<br><br>Let's connect and collaborate on cool projects! 💻<br>
 
 
